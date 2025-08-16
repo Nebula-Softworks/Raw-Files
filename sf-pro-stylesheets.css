@@ -1,4 +1,12 @@
 @font-face {
+  font-family: 'JetBrains Mono';
+  src: url(https://raw.nebulasoftworks.xyz/JetBrains%20Mono.ttf) format('ttf');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+
+@font-face {
   font-family: "SF Pro Display";
   src: local("SF Pro Display Bold"), local("SFProDisplay-Bold"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Bold.woff2) format("woff2");
   font-weight: bold;
