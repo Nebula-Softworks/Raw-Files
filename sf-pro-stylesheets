@@ -1,0 +1,287 @@
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Bold"), local("SFProDisplay-Bold"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Bold.woff2) format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Black"), local("SFProDisplay-Black"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Black.woff2) format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Black Italic"), local("SFProDisplay-BlackItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-BlackItalic.woff2) format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Bold Italic"), local("SFProDisplay-BoldItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-BoldItalic.woff2) format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Regular"), local("SFProDisplay-Regular"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Regular.woff2) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Heavy"), local("SFProDisplay-Heavy"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Heavy.woff2) format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Medium Italic"), local("SFProDisplay-MediumItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-MediumItalic.woff2) format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Light Italic"), local("SFProDisplay-LightItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-LightItalic.woff2) format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Regular Italic"), local("SFProDisplay-RegularItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-RegularItalic.woff2) format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Heavy Italic"), local("SFProDisplay-HeavyItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-HeavyItalic.woff2) format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Light"), local("SFProDisplay-Light"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Light.woff2) format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Medium"), local("SFProDisplay-Medium"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Medium.woff2) format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Semibold Italic"), local("SFProDisplay-SemiboldItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-SemiboldItalic.woff2) format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Ultralight Italic"), local("SFProDisplay-UltralightItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-UltralightItalic.woff2) format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Thin Italic"), local("SFProDisplay-ThinItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-ThinItalic.woff2) format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Thin"), local("SFProDisplay-Thin"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Thin.woff2) format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Semibold"), local("SFProDisplay-Semibold"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Semibold.woff2) format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: local("SF Pro Display Ultralight"), local("SFProDisplay-Ultralight"), url(https://cdn.sirius.menu/assets/fonts/SFProDisplay-Ultralight.woff2) format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Black Italic"), local("SFProText-BlackItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-BlackItalic.woff2) format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Black"), local("SFProText-Black"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Black.woff2) format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Bold"), local("SFProText-Bold"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Bold.woff2) format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Heavy"), local("SFProText-Heavy"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Heavy.woff2) format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Bold Italic"), local("SFProText-BoldItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-BoldItalic.woff2) format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Medium"), local("SFProText-Medium"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Medium.woff2) format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Light Italic"), local("SFProText-LightItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-LightItalic.woff2) format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Light"), local("SFProText-Light"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Light.woff2) format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Heavy Italic"), local("SFProText-HeavyItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-HeavyItalic.woff2) format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Semibold"), local("SFProText-Semibold"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Semibold.woff2) format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Medium Italic"), local("SFProText-MediumItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-MediumItalic.woff2) format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Regular"), local("SFProText-Regular"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Regular.woff2) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Semibold Italic"), local("SFProText-SemiboldItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-SemiboldItalic.woff2) format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Regular Italic"), local("SFProText-RegularItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-RegularItalic.woff2) format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Ultralight Italic"), local("SFProText-UltralightItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-UltralightItalic.woff2) format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Ultralight"), local("SFProText-Ultralight"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Ultralight.woff2) format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Thin Italic"), local("SFProText-ThinItalic"), url(https://cdn.sirius.menu/assets/fonts/SFProText-ThinItalic.woff2) format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: local("SF Pro Text Thin"), local("SFProText-Thin"), url(https://cdn.sirius.menu/assets/fonts/SFProText-Thin.woff2) format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
